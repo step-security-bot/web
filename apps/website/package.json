@@ -1,0 +1,13 @@
+{
+  "name": "@crocoder-dev/website",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@crocoder-dev/tailwind": "*",
+    "astro": "4.11.5"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  }
+}
